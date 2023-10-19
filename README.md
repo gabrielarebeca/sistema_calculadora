@@ -1,2 +1,2 @@
-# sistema_calculadora_C#
+# sistema_calculadora
 Sistema de calculadora programado em Linguagem C#
