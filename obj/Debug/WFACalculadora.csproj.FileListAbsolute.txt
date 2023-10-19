@@ -1,0 +1,41 @@
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.exe.config
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.exe
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.pdb
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.csprojAssemblyReference.cache
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.Form1.resources
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.FrmRevisao.resources
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.csproj.GenerateResource.cache
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\obj\Debug\Calculadora.exe
+C:\Users\LabInfo\Desktop\WFACalculadora\WFACalculadora\obj\Debug\Calculadora.pdb
+D:\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.exe.config
+D:\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.exe
+D:\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.pdb
+D:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.csprojAssemblyReference.cache
+D:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.Form1.resources
+D:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.FrmRevisao.resources
+D:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.Properties.Resources.resources
+D:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.csproj.GenerateResource.cache
+D:\DS\WFACalculadora\WFACalculadora\obj\Debug\Calculadora.exe
+D:\DS\WFACalculadora\WFACalculadora\obj\Debug\Calculadora.pdb
+D:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.FrmCalculadora.resources
+F:\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.exe.config
+F:\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.exe
+F:\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.pdb
+F:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.csprojAssemblyReference.cache
+F:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.Form1.resources
+F:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.FrmCalculadora.resources
+F:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.FrmRevisao.resources
+F:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.Properties.Resources.resources
+F:\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.csproj.GenerateResource.cache
+F:\DS\WFACalculadora\WFACalculadora\obj\Debug\Calculadora.exe
+F:\DS\WFACalculadora\WFACalculadora\obj\Debug\Calculadora.pdb
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.exe.config
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.exe
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\bin\Debug\Calculadora.pdb
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.csprojAssemblyReference.cache
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.FrmCalculadora.resources
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.Properties.Resources.resources
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\obj\Debug\WFACalculadora.csproj.GenerateResource.cache
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\obj\Debug\Calculadora.exe
+D:\Etec\3° Ano\Informática\DS\WFACalculadora\WFACalculadora\obj\Debug\Calculadora.pdb
