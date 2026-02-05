@@ -10,8 +10,7 @@ Este projeto tem como objetivo apresentar uma calculadora funcional com interfac
 
 - ✅ Interface gráfica com botões interativos  
 - ➕ Operações: Adição, Subtração, Multiplicação e Divisão  
-- 🧼 Botão "C" para limpar a entrada  
-- ⌨️ Entrada via clique ou teclado (caso implementado)
+- 🧼 Botão "C" para limpar a entrada
 
 ## 🛠 Tecnologias Utilizadas
 
